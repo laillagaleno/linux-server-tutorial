@@ -1,10 +1,7 @@
-# Tutorial de como implementar um servidor com Ubuntu Server
-Tutorial de como implementar um servidor Ubuntu
-Serviços do Linux:
+# Bem-vindo ao Repositório do Projeto de Implementação de Servidor Linux
 
-- Apache
-- DNS
-- SAMBA
-- PROFTPD
-- DHCP
-- SQUID
+Este repositório é dedicado à documentação completa da implementação de um servidor Linux, conforme orientado pelo professor Paulo Henrique Sousa Barbosa, na disciplina de Redes de Computadores II, do curso de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA).
+
+## Objetivo do Projeto
+
+O objetivo deste projeto é fornecer um tutorial abrangente e detalhado sobre a configuração e implementação de diversos serviços em um servidor Linux, incluindo Apache, DNS, SAMBA, PROFTPD, DHCP e SQUID.
